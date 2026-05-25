@@ -4,4 +4,10 @@ Aspiring Developer
 
 2000.02.22
 
+😄 Portfolio : [https://www.notion.so/2=0](https://www.notion.so/36b2741b9888803695ebcdc3daa2c4f5?source=copy_link) <br>
+😄 Email : eunyoung000222@naver.com <br>
+😄 Github : https://www.github.com/eun00000
+<br>
+<br>
+[Click Me !](https://github.com/eun00000/eun00000)
 
