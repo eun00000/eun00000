@@ -9,5 +9,5 @@ Aspiring Developer
 😄 Github : https://www.github.com/eun00000
 <br>
 <br>
-[Click Me !](https://github.com/eun00000/eun00000)
+[Click Me !]([https://github.com/eun00000/eun00000](https://github.com/eun00000/MyPortFolio/tree/main))
 
